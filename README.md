@@ -1,59 +1,62 @@
-# [Project Name] 🎯
+# [Book Recommendation] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Code Storm]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Jane Therese] - [Rajagiri School of Engineering and Technology]
+- Member 2: [Harichandana P] - [Rajagiri School of Engineering and Technology]
+- Member 3: [Kavitha A M] - [Rajagiri School of Engineering and Technology]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our project facilitates the needs of the reader by tailoring books according to their wish.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The problem faced by readers worldwide is their basic need to manipulate what their mind seeks into the genre they select. Often they face difficulty in choosing the right genre-based book.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[We provide them with genres to select from and will tailor it and suggest them books according to their wish.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,CSS,JAVAScript,python,MySQL]
+- [FLASK,JAVAScript]
+- [Flask,SQLITE3,Google Fonts]
+- [Flask,SQLLITE,VSCODE,browser,Git]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [laptop,network interface,processor]
+- [processor,memory,storage]
+- [laptop,network eqipment]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[pip install flask, flask --version, python3 -m venv , python setup_db.py]
 
 # Run
-[commands]
+[python app.py]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![![Screenshot (521)](https://github.com/user-attachments/assets/8c96ff68-4a32-4e94-9739-4bc4611ee98d)
+](First web page)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![![Screenshot (522)](https://github.com/user-attachments/assets/acc219eb-678f-48ae-8cc4-bcd6c4b40baf)
+](Response to first input)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![![Screenshot (523)](https://github.com/user-attachments/assets/f47197d0-fbae-42d4-80e9-cb5b59634f36)
+](Response to second input)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -91,9 +94,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Kavitha A M]: [Frontend development]
+- [Jane Therese]: [Backend development]
+- [Harichandana P]: [Debugging]
 
 ---
 Made with ❤️ at TinkerHub
